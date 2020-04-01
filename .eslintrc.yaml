@@ -1,0 +1,9 @@
+parser: "@typescript-eslint/parser"
+plugins:
+  - "eslint-plugin-tsdoc"
+extends:
+  - "plugin:@typescript-eslint/recommended"
+  - "plugin:prettier/recommended"
+  - "prettier/@typescript-eslint"
+rules:
+  "tsdoc/syntax": "error"
