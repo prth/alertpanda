@@ -7,3 +7,6 @@ extends:
   - "prettier/@typescript-eslint"
 rules:
   "tsdoc/syntax": "error"
+  "@typescript-eslint/no-use-before-define":
+    - "error"
+    - functions: false
