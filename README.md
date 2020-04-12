@@ -1,5 +1,9 @@
 # alertpanda
 
+[![build status](https://img.shields.io/travis/prth/alertpanda/master.svg?style=flat-square)](https://travis-ci.org/prth/alertpanda)
+[![code coverage](https://img.shields.io/coveralls/prth/alertpanda.svg?style=flat-square)](https://coveralls.io/r/prth/alertpanda)
+[![npm version](https://img.shields.io/npm/v/alertpanda.svg?style=flat-square)](https://www.npmjs.org/package/alertpanda)
+
 > a very alert panda alerting humans and bots
 
 A simple utility to send Slack alerts for application monitoring.
