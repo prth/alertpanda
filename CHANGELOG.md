@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.0.0] - 2021-10-18
+
+### Changed
+
+- Tag first major release
+- Update NPM dependencies using `npm update`
+- Add npmrc for save-prefix as `~`
+- Update package.json to use `~` prefix for all dependencies
+- Fix lint issues in slack.spec.ts unit tests
+
 ## [0.0.3] - 2020-08-04
 
 ### Changed

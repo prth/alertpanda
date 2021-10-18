@@ -1,6 +1,6 @@
 {
   "name": "alertpanda",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A simple utility to send Slack alerts for application monitoring. (a very alert panda alerting humans and bots)",
   "main": "build/main/index.js",
   "types": "build/main/index.d.ts",
