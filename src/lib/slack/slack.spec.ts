@@ -83,8 +83,7 @@ describe('slack', () => {
               fields: [
                 { text: '*Project*\nmystery', type: 'mrkdwn' },
                 {
-                  text:
-                    '*When*\n<!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
+                  text: '*When*\n<!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
                   type: 'mrkdwn',
                 },
               ],
@@ -155,8 +154,7 @@ describe('slack', () => {
               fields: [
                 { text: '*Project*\nmystery', type: 'mrkdwn' },
                 {
-                  text:
-                    '*When*\n<!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
+                  text: '*When*\n<!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
                   type: 'mrkdwn',
                 },
               ],
@@ -228,8 +226,7 @@ describe('slack', () => {
             {
               elements: [
                 {
-                  text:
-                    'mystery - <!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
+                  text: 'mystery - <!date^1587399600^{date} at {time}|2020-04-20T16:20:00.000Z>',
                   type: 'mrkdwn',
                 },
               ],
